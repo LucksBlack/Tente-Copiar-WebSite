@@ -22,7 +22,7 @@ Mostrar que com HTML, CSS e JavaScript bem estruturados, é possível criar um s
 
 ## 🌐 Acesse o site
 
-🔗 [Clique aqui para visitar o site](https://seusiteaqui.com)
+🔗 [Clique aqui para visitar o site](https://tente-copiar.netlify.app/)
 
 ## 🛠️ Tecnologias
 
